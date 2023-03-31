@@ -1,1 +1,1 @@
-# script
+# My first dyplom work 
